@@ -1,8 +1,7 @@
 # Full-Stack Developer (MERN Stack) Profile
 
-<div align="center">
-  <img src="https://your-image-url" alt="Profile Image" width="200" height="200">
-</div>
+
+
 
 ## Hi there! 👋
 
