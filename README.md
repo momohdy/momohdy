@@ -1,5 +1,5 @@
 ## WELCOME  
-![Code Coding GIF](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
+![Code Coding GIF]([https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif](https://giphy.com/embed/KzJkzjggfGN5Py6nkT))
 
 I'm 
 ## Mostafa Mohdy
