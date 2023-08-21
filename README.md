@@ -27,7 +27,7 @@ Here are some of the key skills and technologies I work with:
 
 If you'd like to get in touch with me, feel free to reach out through the following channels:
 
-- Email : [mostafamohdy03@gmail.com] (https://www.mostafamohdy03@gmail.com)
+- Email : [mostafa mohdy] (https://www.mostafamohdy03@gmail.com)
   
 - LinkedIn : [Mostafa_Mohdy]  (https://www.linkedin.com/in/mostafa-mohdy)
   
