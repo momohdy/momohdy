@@ -1,6 +1,7 @@
-  👨‍🏫 Welcome to my GitHub profile! I'm Mostafa Mohdy, a passionate Full-Stack Developer specializing in the MERN (MongoDB, Express.js, React.js, Node.js) stack.
+👨‍🏫 Welcome to my GitHub profile!
+I'm Mostafa Mohdy, a passionate Full-Stack Developer specializing in the MERN (MongoDB, Express.js, React.js, Node.js) stack.
 
-أ## Skills and Technologies
+## Skills and Technologies
 
 Here are some of the key skills and technologies I work with:
 
@@ -14,7 +15,7 @@ Here are some of the key skills and technologies I work with:
 
 If you'd like to get in touch with me, feel free to reach out through the following channels:
 
-- Email: [mostafamohdy03@gmail.com](mailto:mostafamohdy03@gmail.com)
+- Email: [mostafamohdy03@gmail.com](https://www.mostafamohdy03@gmail.com)
 - LinkedIn: [mostafa-mohdy](https://www.linkedin.com/in/mostafa-mohdy)
 - Telegram: (https://t.me/work_Channel3)
 
