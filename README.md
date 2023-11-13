@@ -21,7 +21,7 @@ Here are some of the key skills and technologies I work with:
  
  👩‍🎓 - **Version Control**: Git, GitHub
 
- 📚 - **Testing**: Jest, Enzyme, Mocha, Chai
+ 📚 - **Testing**: Jest
  
  💡  - **Other Tools**: npm, Yarn, Webpack, Babel, ESLint 
  
