@@ -15,15 +15,15 @@ Here are some of the key skills and technologies I work with:
  
  🤝 - **Backend Development**: Node.js, Express.js, MongoDB , MySQL , SQL Server , RESTful APIs
  
- 🌐 - **Database**: MongoDB, MySQL, PostgreSQL, SQL Server 
+ 🌐 - **Database**: MongoDB, MySQL, SQL Server 
  
- 📖 - **Server Deployment**: Heroku, Netlify, AWS, Azure
+ 📖 - **Server Deployment**: Render , Netlify
  
  👩‍🎓 - **Version Control**: Git, GitHub
 
  📚 - **Testing**: Jest
  
- 💡  - **Other Tools**: npm, Yarn, Webpack, Babel, ESLint 
+ 💡  - **Other Tools**: npm
  
  
  ## Contact Me
