@@ -32,7 +32,7 @@ If you'd like to get in touch with me, feel free to reach out through the follow
 
 - Email : [mostafa mohdy] (https://www.mostafamohdy03@gmail.com)
   
-- LinkedIn : [Mostafa_Mohdy]  (https://www.linkedin.com/in/mostafa-mohdy)
+- LinkedIn : [Mostafa_Mohdy]  ([https://www.linkedin.com/in/mostafa-mohdy](https://www.linkedin.com/in/mostafa-mohdy-b8445523b/))
   
 - Telegram : [Channel]  (https://t.me/work_Channel3)
 
